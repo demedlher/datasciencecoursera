@@ -1,2 +1,2 @@
 # datasciencecoursera
-sandbox for Coursera data science course
+sandbox for my Coursera data science course
